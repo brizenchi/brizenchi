@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋, I'm Brizen
 
-<!--
-**brizenchi/brizenchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Indie Hacker from China.
+<p>
+  <a href="https://brizen.top">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/blogger/white">
+      <img alt="blogger" title="blogger" height="28" width="28" src="https://cdn.simpleicons.org/blogger">
+    </picture>
+  </a>
+  <a href="https://github.com/brizenchi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="28" width="28" src="https://cdn.simpleicons.org/github">
+    </picture>
+  </a>
+  <a href="mailto:brizenchi@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white">
+      <img alt="gmail" title="gmail" height="28" width="28" src="https://cdn.simpleicons.org/gmail">
+    </picture>
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+- 💼 Full-Stack Developer
+- 😄 Keep curiosity, Always Exploring.
