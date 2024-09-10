@@ -22,12 +22,12 @@ I'm an Indie Hacker from China.
   </a>
 </p>
 
-**About me**
+### **About me**
 - 💼 Full-Stack Developer.
 - 😄 Keep curiosity, Always Exploring.
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brizenchi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Brizen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizenchi&layout=compact&theme=buefy&hide_border=true" /></a> |
+### **My github stats**
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=brizenchi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Brizen's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizenchi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
