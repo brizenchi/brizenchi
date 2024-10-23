@@ -20,6 +20,12 @@ I'm an Indie Hacker from China.
       <img alt="gmail" title="gmail" height="28" width="28" src="https://cdn.simpleicons.org/gmail">
     </picture>
   </a>
+  <a href="https://t.me/brizenchi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white">
+      <img alt="telegram" title="telegram" height="28" width="28" src="https://cdn.simpleicons.org/telegram">
+    </picture>
+  </a>
 </p>
 
 ### **About me**
