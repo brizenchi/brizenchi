@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Brizen
 
-I'm an Indie Hacker from China.
+I'm a coder from China.
 <p>
   <a href="https://brizen.top">
     <picture>
@@ -29,8 +29,9 @@ I'm an Indie Hacker from China.
 </p>
 
 ### **About me**
-- 💼 Full-Stack Developer.
-- 😄 Keep curiosity, Always Exploring.
+- 🧑‍💻 Full-Stack Developer, focus on the fields of Web3 and AI.
+- 💼 Building my own business.
+- 😄 Keep curiosity, always exploring.
 
 ### **My github stats**
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=brizenchi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Brizen's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizenchi&layout=compact&theme=buefy&hide_border=true" /></a> |
