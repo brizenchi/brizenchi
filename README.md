@@ -29,7 +29,7 @@ I'm a coder from China.
 </p>
 
 ### **About me**
-- 🧑‍💻 Full-Stack Developer, focus on the fields of Web3 and AI.
+- 🧑‍💻 Full-Stack Developer, focus on Web3 and AI.
 - 💼 Building my own business.
 - 😄 Keep curiosity, always exploring.
 
